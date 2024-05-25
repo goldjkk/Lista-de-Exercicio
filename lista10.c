@@ -2,7 +2,6 @@
 #include <time.h>
 
 void funcaoParaTestar() {
-    // Simulação de uma função que leva tempo para ser executada
     for (long long i = 0; i < 1000000000; i++);
 }
 
